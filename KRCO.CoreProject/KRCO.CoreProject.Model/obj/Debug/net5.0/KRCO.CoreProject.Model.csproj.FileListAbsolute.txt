@@ -1,0 +1,12 @@
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Model\bin\Debug\net5.0\KRCO.CoreProject.Model.deps.json
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Model\bin\Debug\net5.0\KRCO.CoreProject.Model.dll
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Model\bin\Debug\net5.0\ref\KRCO.CoreProject.Model.dll
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Model\bin\Debug\net5.0\KRCO.CoreProject.Model.pdb
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Model\obj\Debug\net5.0\KRCO.CoreProject.Model.csprojAssemblyReference.cache
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Model\obj\Debug\net5.0\KRCO.CoreProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Model\obj\Debug\net5.0\KRCO.CoreProject.Model.AssemblyInfoInputs.cache
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Model\obj\Debug\net5.0\KRCO.CoreProject.Model.AssemblyInfo.cs
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Model\obj\Debug\net5.0\KRCO.CoreProject.Model.csproj.CoreCompileInputs.cache
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Model\obj\Debug\net5.0\KRCO.CoreProject.Model.dll
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Model\obj\Debug\net5.0\ref\KRCO.CoreProject.Model.dll
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Model\obj\Debug\net5.0\KRCO.CoreProject.Model.pdb

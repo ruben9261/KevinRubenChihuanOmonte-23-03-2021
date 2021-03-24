@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KRCO.CoreProject.Comunicator\KRCO.CoreProject.Comunicator.csproj" />
+    <ProjectReference Include="..\KRCO.CoreProject.Model\KRCO.CoreProject.Model.csproj" />
+  </ItemGroup>
+
+</Project>

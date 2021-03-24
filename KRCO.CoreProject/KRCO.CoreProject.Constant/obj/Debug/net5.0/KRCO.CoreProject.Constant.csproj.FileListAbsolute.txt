@@ -1,0 +1,14 @@
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Constant\bin\Debug\net5.0\KRCO.CoreProject.Constant.deps.json
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Constant\bin\Debug\net5.0\KRCO.CoreProject.Constant.dll
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Constant\bin\Debug\net5.0\ref\KRCO.CoreProject.Constant.dll
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Constant\bin\Debug\net5.0\KRCO.CoreProject.Constant.pdb
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Constant\obj\Debug\net5.0\KRCO.CoreProject.Constant.csprojAssemblyReference.cache
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Constant\obj\Debug\net5.0\KRCO.CoreProject.Constant.Service.resources
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Constant\obj\Debug\net5.0\KRCO.CoreProject.Constant.csproj.GenerateResource.cache
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Constant\obj\Debug\net5.0\KRCO.CoreProject.Constant.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Constant\obj\Debug\net5.0\KRCO.CoreProject.Constant.AssemblyInfoInputs.cache
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Constant\obj\Debug\net5.0\KRCO.CoreProject.Constant.AssemblyInfo.cs
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Constant\obj\Debug\net5.0\KRCO.CoreProject.Constant.csproj.CoreCompileInputs.cache
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Constant\obj\Debug\net5.0\KRCO.CoreProject.Constant.dll
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Constant\obj\Debug\net5.0\ref\KRCO.CoreProject.Constant.dll
+D:\UMC\Projects\UMC.Core\KRCO.CoreProject\KRCO.CoreProject.Constant\obj\Debug\net5.0\KRCO.CoreProject.Constant.pdb

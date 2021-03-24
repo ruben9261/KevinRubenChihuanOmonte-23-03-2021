@@ -1,0 +1,35 @@
+﻿@model List<KRCO.CoreProject.Model.Model.Album>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">BertoniTest MiniProject</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<table id="album-table" class="table table-striped table-bordered table-sm" cellspacing="0" width="100%">
+    <thead>
+        <tr>
+            <th class="th-sm">
+                Id
+
+            </th>
+            <th class="th-sm">
+                title
+            </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var album in Model)
+        {
+        <tr>
+            <td>@album.id</td>
+            <td>@album.title</td>
+            <td><a asp-area="" asp-controller="Photo" asp-action="Index" asp-route-id="@album.id">Visualizar Álbum</a></td>
+        </tr>
+        }
+    </tbody>
+</table>

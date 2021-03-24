@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="5.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KRCO.CoreProject.Common\KRCO.CoreProject.Common.csproj" />
+    <ProjectReference Include="..\KRCO.CoreProject.Constant\KRCO.CoreProject.Constant.csproj" />
+    <ProjectReference Include="..\KRCO.CoreProject.Model\KRCO.CoreProject.Model.csproj" />
+  </ItemGroup>
+
+</Project>
